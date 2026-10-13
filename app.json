@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "ParaPo!",
+    "slug": "parapo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.parapo.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1E40AF"
+      },
+      "package": "com.parapo.app"
+    },
+    "web": {},
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
